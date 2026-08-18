@@ -115,3 +115,5 @@ Plus 7 dépôts sous [TCHADEAU](https://github.com/TCHADEAU) pour la mission SI 
 **Low-tech.** Serveur hébergé sur un smartphone reconditionné, datacenter minimaliste et autonome en énergie, réemploi plutôt que rachat.
 
 **Communs numériques.** Licences libres, référentiels ouverts, outils réutilisables par d'autres organisations.
+
+<!-- profil -->
