@@ -10,17 +10,18 @@ Compte ouvert en 2012, puis quatorze ans de contributions surtout privées. Depu
 [![Followers](https://img.shields.io/github/followers/gridboy?style=flat-square&label=abonn%C3%A9s&color=6B7A72)](https://github.com/gridboy?tab=followers)
 ### Trois chantiers
 
-**Référentiels et conformité.** Je transforme RGESN, GR491, Opquast et RGAA en règles exécutables : CLI d'audit, générateur de déclaration d'accessibilité, fiches d'architecture responsable.
+**Référentiels et conformité.** Je transforme RGESN, GR491, Opquast et RGAA en outils utilisables. [GPC-ONR](https://github.com/Institut-du-Numerique-Responsable/GPC-ONR) aide à prioriser les actions de numérique responsable ; [BP-AIR](https://github.com/Institut-du-Numerique-Responsable/BP-AIR) traduit ces principes en fiches pour les architectures informatiques ; les CLI et les générateurs rendent les référentiels plus faciles à appliquer dans les projets.
 
 **Mesure d'impact.** J'instrumente : compteurs RAPL côté serveur, calculateur d'empreinte individuelle, dataviz Digital Cleanup Day, baromètre WeNR.
 
-**IA sobre.** J'injecte skills et règles d'écoconception dans 11 assistants de code (Claude Code, Cursor, Copilot, Gemini CLI, Codex) et 13 langues.
+**IA sobre.** Avec [green-claude](https://github.com/Institut-du-Numerique-Responsable/green-claude), [green-codex](https://github.com/Institut-du-Numerique-Responsable/green-codex) et [skill-nr](https://github.com/Institut-du-Numerique-Responsable/skill-nr), je porte les règles d'écoconception et de responsabilité dans les assistants de code. Le travail couvre 11 assistants et 13 langues.
 
 ### Projets à ouvrir en premier
 
 | Projet | Objet | ★ |
 |---|---|--:|
 | [green-claude](https://github.com/Institut-du-Numerique-Responsable/green-claude) | Skill éco-responsable pour Claude Code : audit RGESN, GR491, Green Software Foundation | 42 |
+| [green-codex](https://github.com/Institut-du-Numerique-Responsable/green-codex) | Skill pour appliquer les règles de numérique responsable dans Codex | 0 |
 | [skill-nr](https://github.com/Institut-du-Numerique-Responsable/skill-nr) | Règles d'écoconception pour 11 assistants IA de code, 13 langues | 2 |
 | [nr-analysis-cli](https://github.com/Institut-du-Numerique-Responsable/nr-analysis-cli) | CLI d'audit RGESN : écoconception et accessibilité d'une page web | 1 |
 | [CO2_RAPL](https://github.com/Institut-du-Numerique-Responsable/CO2_RAPL) | Empreinte carbone d'un serveur Linux via RAPL, sans instrumentation matérielle | 1 |
