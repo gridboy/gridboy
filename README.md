@@ -27,6 +27,7 @@ Compte ouvert en 2012, puis quatorze ans de contributions surtout privées. Depu
 | [myimpact](https://github.com/Institut-du-Numerique-Responsable/myimpact) | Calculatrice grand public d'impacts numériques individuels | 1 |
 | [bw_camera](https://github.com/Institut-du-Numerique-Responsable/bw_camera) | Caméra virtuelle N&B V4L2 : moins de bande passante en visio | 0 |
 | [MOOC-Numerique-Responsable](https://github.com/gridboy/MOOC-Numerique-Responsable) | MOOCs et supports de cours libres sur le numérique responsable | 4 |
+| [skull_3D](https://github.com/gridboy/skull_3D) | Rendu OpenGL d’un scanner CTHead : os, tissus, transparence, coupes et éclaté 3D | 0 |
 | [awesome-green-software](https://github.com/Green-Software-Foundation/awesome-green-software) | Liste de référence du green software, Green Software Foundation | 691 |
 
 <details>
@@ -100,7 +101,7 @@ Plus 7 dépôts sous [TCHADEAU](https://github.com/TCHADEAU) pour la mission SI 
 
 ### Centres d'intérêt
 
-**3D, vision et interaction.** Reconnaissance de formes, interaction naturelle sans manette, modélisation et rendu OpenGL. Nuages de points et squelette captés avec une Kinect sous macOS ([cocoa_kinect](https://github.com/gridboy/cocoa_kinect)), maillages et transformations dans [Wing_3D](https://github.com/gridboy/Wing_3D).
+**3D, vision et interaction.** Je travaille sur la reconnaissance de formes, l’interaction sans manette et le rendu OpenGL. [skull_3D](https://github.com/gridboy/skull_3D) me sert à explorer un scanner CTHead en C++ : le moteur empile les coupes, respecte leur espacement, puis propose des vues osseuses, transparentes et en coupe. Je poursuis la même famille de sujets avec les nuages de points et le squelette captés par Kinect sous macOS ([cocoa_kinect](https://github.com/gridboy/cocoa_kinect)), ainsi qu’avec les maillages et transformations de [Wing_3D](https://github.com/gridboy/Wing_3D).
 
 **Algorithmie et poésie du code.** Structures, complexité, plaisir de l'exercice bien posé. Un programme qui est un poème et un poème qui s'exécute : code golf, ASCII art, démos sous contrainte de taille, où la forme du source compte autant que ce qu'il affiche.
 
