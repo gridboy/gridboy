@@ -28,6 +28,7 @@ Compte ouvert en 2012, puis quatorze ans de contributions surtout privées. Depu
 | [bw_camera](https://github.com/Institut-du-Numerique-Responsable/bw_camera) | Caméra virtuelle N&B V4L2 : moins de bande passante en visio | 0 |
 | [MOOC-Numerique-Responsable](https://github.com/gridboy/MOOC-Numerique-Responsable) | MOOCs et supports de cours libres sur le numérique responsable | 4 |
 | [skull_3D](https://github.com/gridboy/skull_3D) | Rendu OpenGL d’un scanner CTHead : os, tissus, transparence, coupes et éclaté 3D | 0 |
+| [Wing_3D](https://github.com/gridboy/Wing_3D) | Modélisation 3D, maillages et transformations géométriques | 0 |
 | [awesome-green-software](https://github.com/Green-Software-Foundation/awesome-green-software) | Liste de référence du green software, Green Software Foundation | 691 |
 
 <details>
@@ -86,12 +87,15 @@ Plus 7 dépôts sous [TCHADEAU](https://github.com/TCHADEAU) pour la mission SI 
 ![Communs numériques](https://img.shields.io/badge/Communs%20num%C3%A9riques-A9502A?style=flat-square)
 ![Accessibilité](https://img.shields.io/badge/Accessibilit%C3%A9-A9502A?style=flat-square)
 ![3D & vision](https://img.shields.io/badge/3D%20%26%20vision-A9502A?style=flat-square)
+![Vision par ordinateur](https://img.shields.io/badge/Vision%20par%20ordinateur-A9502A?style=flat-square)
+![Rendu 3D](https://img.shields.io/badge/Rendu%203D-A9502A?style=flat-square)
 ![Robotique](https://img.shields.io/badge/Robotique-A9502A?style=flat-square)
 ![Code poetry](https://img.shields.io/badge/Code%20poetry-A9502A?style=flat-square)
 
 **Outils**
 ![Shell](https://img.shields.io/badge/Shell-1C2723?style=flat-square&logo=gnubash&logoColor=white)
 ![C](https://img.shields.io/badge/C-1C2723?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-1C2723?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1C2723?style=flat-square&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-1C2723?style=flat-square&logo=python&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-1C2723?style=flat-square&logo=opengl&logoColor=white)
