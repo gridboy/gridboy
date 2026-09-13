@@ -105,7 +105,9 @@ Plus 7 dépôts sous [TCHADEAU](https://github.com/TCHADEAU) pour la mission SI 
 
 ### Centres d'intérêt
 
-**3D, vision et interaction.** Je travaille sur la reconnaissance de formes, l’interaction sans manette et le rendu OpenGL. [skull_3D](https://github.com/gridboy/skull_3D) me sert à explorer un scanner CTHead en C++ : le moteur empile les coupes, respecte leur espacement, puis propose des vues osseuses, transparentes et en coupe. Je poursuis la même famille de sujets avec les nuages de points et le squelette captés par Kinect sous macOS ([cocoa_kinect](https://github.com/gridboy/cocoa_kinect)), ainsi qu’avec les maillages et transformations de [Wing_3D](https://github.com/gridboy/Wing_3D).
+**3D, vision et interaction.** [Wing_3D](https://github.com/gridboy/Wing_3D) et [skull_3D](https://github.com/gridboy/skull_3D) sont des projets d’école. Le premier explore les maillages et les transformations 3D ; le second permet de parcourir un scanner CTHead en C++ avec des vues du squelette, des tissus, de la transparence et des coupes.
+
+[cocoa_kinect](https://github.com/gridboy/cocoa_kinect) correspond à un autre travail : explorer l’interaction naturelle pour intégrer ces technologies dans les salles de pilotage de Veolia Eau. L’objectif était aussi d’imaginer des usages de réalité augmentée dans les usines et les zones particulières, puis d’évaluer de nouvelles façons de manipuler et de croiser les informations. Cette approche devait améliorer la performance opérationnelle et encourager l’innovation croisée en décloisonnant l’accès aux données pour les rendre plus accessibles.
 
 **Algorithmie et poésie du code.** Structures, complexité, plaisir de l'exercice bien posé. Un programme qui est un poème et un poème qui s'exécute : code golf, ASCII art, démos sous contrainte de taille, où la forme du source compte autant que ce qu'il affiche.
 
