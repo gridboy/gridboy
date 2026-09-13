@@ -12,7 +12,7 @@ Compte ouvert en 2012, puis quatorze ans de contributions surtout privées. Depu
 
 **Référentiels et conformité.** Je transforme RGESN, GR491, Opquast et RGAA en outils utilisables. [GPC-ONR](https://github.com/Institut-du-Numerique-Responsable/GPC-ONR) aide à prioriser les actions de numérique responsable ; [BP-AIR](https://github.com/Institut-du-Numerique-Responsable/BP-AIR) traduit ces principes en fiches pour les architectures informatiques ; les CLI et les générateurs rendent les référentiels plus faciles à appliquer dans les projets.
 
-**Mesure d'impact.** J'instrumente : compteurs RAPL côté serveur, calculateur d'empreinte individuelle, dataviz Digital Cleanup Day, baromètre WeNR.
+**Mesure d'impact.** Je participe à [WeNR](https://github.com/Institut-du-Numerique-Responsable/wenr-site), [myimpact](https://github.com/Institut-du-Numerique-Responsable/myimpact), la [dataviz Digital Cleanup Day](https://github.com/Institut-du-Numerique-Responsable/dataviz-digital-cleanup), [CO2_RAPL](https://github.com/Institut-du-Numerique-Responsable/CO2_RAPL) et [nr-analysis-cli](https://github.com/Institut-du-Numerique-Responsable/nr-analysis-cli). Ces projets servent à mesurer les usages, l’énergie et les impacts, puis à transformer les résultats en pistes d’action.
 
 **IA sobre.** Avec [green-claude](https://github.com/Institut-du-Numerique-Responsable/green-claude), [green-codex](https://github.com/Institut-du-Numerique-Responsable/green-codex) et [skill-nr](https://github.com/Institut-du-Numerique-Responsable/skill-nr), je porte les règles d'écoconception et de responsabilité dans les assistants de code. Le travail couvre 11 assistants et 13 langues.
 
