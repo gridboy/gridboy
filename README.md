@@ -21,7 +21,7 @@ Compte ouvert en 2012, puis quatorze ans de contributions surtout privées. Depu
 | Projet | Objet | ★ |
 |---|---|--:|
 | [green-claude](https://github.com/Institut-du-Numerique-Responsable/green-claude) | Skill éco-responsable pour Claude Code : audit RGESN, GR491, Green Software Foundation | 42 |
-| [green-codex](https://github.com/Institut-du-Numerique-Responsable/green-codex) | Skill pour appliquer les règles de numérique responsable dans Codex | 0 |
+| [green-codex](https://github.com/Institut-du-Numerique-Responsable/green-codex) | Skill pour appliquer les règles de numérique responsable dans Codex | 6 |
 | [skill-nr](https://github.com/Institut-du-Numerique-Responsable/skill-nr) | Règles d'écoconception pour 11 assistants IA de code, 13 langues | 2 |
 | [nr-analysis-cli](https://github.com/Institut-du-Numerique-Responsable/nr-analysis-cli) | CLI d'audit RGESN : écoconception et accessibilité d'une page web | 1 |
 | [CO2_RAPL](https://github.com/Institut-du-Numerique-Responsable/CO2_RAPL) | Empreinte carbone d'un serveur Linux via RAPL, sans instrumentation matérielle | 1 |
